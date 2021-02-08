@@ -1,12 +1,13 @@
 # Utilização
 
-Após realizar o download do aplicativo, descompacte e execute OtimizadorVideos.exe.
+![image](https://user-images.githubusercontent.com/3487994/107222638-f008a580-69f3-11eb-936c-b5d82a8a7ec0.png)
+
+[Download OtimizadorVideos1.0.zip](https://github.com/dioubernardo/otimizadorvideos/releases/download/v1.0/OtimizadorVideos1.0.zip)
+
+Após realizar o download do aplicativo, descompacte e execute "Otimizador de vídeos.exe".
 Selecione o vídeo desejado clicando no botão "Selecionar vídeo" e aguarde o processamento.
 Um arquivo com o mesmo nome do original acrescido do sufixo com a data de otimização será depositado na 
 mesma pasta do original contendo seu vídeo otimizado.
-
-
-
 
 # Compilação
 
