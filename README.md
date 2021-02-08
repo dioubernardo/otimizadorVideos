@@ -17,5 +17,4 @@ o código está preparado para usar a versão estática.
 - Colocar o arquivo baixado na raiz do projeto com o nome ffmpeg.exe
 - Compilar normalmente usando Visual Studio
 
-
-Este software usa bibliotecas do projeto FFmpeg sob o LGPLv2.1
+Este software usa código de [FFmpeg](http://ffmpeg.org) licenciado sob a [LGPLv2.1](http://www.gnu.org/licenses/old-licenses/lgpl-2.1.html) e sua fonte podem ser baixados [aqui](https://github.com/dioubernardo/otimizadorvideos).
